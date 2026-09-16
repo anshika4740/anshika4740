@@ -241,12 +241,10 @@ Machine Learning project focused on predicting passenger survival from historica
 
 # 📊 GitHub Stats
 
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshika4740&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika4740&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika4740&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika4740&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 # 🔥 GitHub Streak
 
