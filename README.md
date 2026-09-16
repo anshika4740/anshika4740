@@ -150,16 +150,6 @@ Machine Learning project for predicting movie ratings using movie-related featur
 <tr>
 <td width="50%" valign="top">
 
-#### 🌸 Iris Flower Classification
-**Python • Pandas • NumPy • Scikit-learn • Matplotlib**
-
-- Built a machine learning classification model to identify Iris flower species.
-- Used features such as **sepal length, sepal width, petal length and petal width**.
-- Applied **Logistic Regression** for classification.
-- Evaluated the model using classification metrics and visualizations.
-
-🔗 [View Project](YOUR_IRIS_GITHUB_REPO_LINK)
-
 ---
 
 # 💼 Internship & Experience
