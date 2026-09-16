@@ -34,48 +34,6 @@
 
 ---
 
-## 🧑‍💻 What I Do
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI / ML
-Generative AI<br>
-LLMs & RAG<br>
-NLP & OCR<br>
-Embeddings<br>
-Vector Search<br>
-Hugging Face
-
-</td>
-<td width="33%" align="center">
-
-### 🌐 Full-Stack
-React.js<br>
-JavaScript<br>
-Node.js<br>
-Express.js<br>
-FastAPI<br>
-REST APIs
-
-</td>
-<td width="33%" align="center">
-
-### 📊 Data
-Data Science<br>
-Data Engineering<br>
-ETL / ELT<br>
-Data Pipelines<br>
-Analytics<br>
-Machine Learning
-
-</td>
-</tr>
-</table>
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -84,7 +42,7 @@ Machine Learning
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="55"/>
 </p>
 
-<p align="center"><b>Python • Java • JavaScript • SQL</b></p>
+`Python` `Java` `JavaScript` `SQL`
 
 ---
 
@@ -110,9 +68,11 @@ Machine Learning
 
 ### 📊 Data Science & Data Engineering
 
-`Pandas` `NumPy` `Matplotlib` `PySpark` `Databricks` `Snowflake` `Apache Airflow` `dbt`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45"/>
+</p>
 
-`ETL / ELT` `Data Pipelines` `Data Warehousing` `Data Modeling`
+`PySpark` `Databricks` `Snowflake` `Apache Airflow` `dbt` `ETL / ELT` `Data Pipelines` `Data Warehousing` `Data Modeling`
 
 ---
 
@@ -190,26 +150,15 @@ Machine Learning project for predicting movie ratings using movie-related featur
 <tr>
 <td width="50%" valign="top">
 
-## 🌸 Iris Flower Classification
+#### 🌸 Iris Flower Classification
+**Python • Pandas • NumPy • Scikit-learn • Matplotlib**
 
-Classification model for predicting Iris flower species.
+- Built a machine learning classification model to identify Iris flower species.
+- Used features such as **sepal length, sepal width, petal length and petal width**.
+- Applied **Logistic Regression** for classification.
+- Evaluated the model using classification metrics and visualizations.
 
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-<a href="https://github.com/anshika4740/IRIS-Flower-Classification">🔗 View Project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-## 🚢 Titanic Survival Prediction
-
-Machine Learning project focused on predicting passenger survival from historical data.
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-</td>
-</tr>
-</table>
+🔗 [View Project](YOUR_IRIS_GITHUB_REPO_LINK)
 
 ---
 
@@ -283,6 +232,7 @@ Machine Learning project focused on predicting passenger survival from historica
 <a href="https://github.com/anshika4740">🐙 GitHub</a>
 &nbsp; • &nbsp;
 <a href="https://www.geeksforgeeks.org/profile/anshikacvm1p?tab=overview">🟢 GeeksforGeeks</a>
+<a href="https://leetcode.com/u/AnshiR/">🟨 LeetCode</a>
 
 <br><br>
 
