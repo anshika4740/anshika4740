@@ -68,7 +68,7 @@
 
 ### 📊 Data Science & Data Engineering
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="45"/>
 </p>
 
