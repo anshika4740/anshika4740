@@ -259,14 +259,6 @@ Machine Learning project focused on predicting passenger survival from historica
   <img src="https://raw.githubusercontent.com/anshika4740/anshika4740/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
-# 📈 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshika4740&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
----
-
 # 🎯 Current Goals
 
 <table align="center">
